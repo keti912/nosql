@@ -1,0 +1,15 @@
+{
+	"lekar":{
+		"ime":"Petar",
+		"prezime":"Petrovic"
+	},
+	"pacijent":{
+		"ime":"Mika",
+		"prezime":"Mikic",
+		"brojKartona":"12/12"
+	},
+	"dijagnoze":[
+		{"naziv":"prehlada", "sifra": "PO1"},
+		{"naziv":"grip", "sifra":"GO2"}
+	]
+}
